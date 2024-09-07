@@ -4,7 +4,7 @@
 base_dir="projects"
 
 # List of project directories
-projects=("facebook" "google/oriserve" "meta/oriserve")
+projects=("facebook/oriserve" "google/oriserve" "meta/oriserve")
 
 # Create the base directory if it doesn't exist
 mkdir -p "$base_dir"
